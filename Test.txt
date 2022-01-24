@@ -2,3 +2,5 @@ This is a test.
 This line was added using GitHub web-interface.
 
 This line was added from the new_branch.
+
+Modified locally in this very line.
